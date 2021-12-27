@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="success_message_item_added_to_favorite">movie have been added to favorite</string>
+
+    <string-array name="arr.img_artikel">
+        <item>@drawable/newhome</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/eternal</item>
+    </string-array>
+
+    <string-array name="arr.title_artikel">
+        <item>Spiderman</item>
+        <item>Venom</item>
+        <item>God</item>
+    </string-array>
+</resources>

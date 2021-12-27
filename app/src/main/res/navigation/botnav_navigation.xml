@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/botnav_navigation"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.nbsmovie.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/popular"
+        android:name="com.example.nbsmovie.ui.popular.PopularFragment"
+        android:label="fragment_popular"
+        tools:layout="@layout/fragment_popular">
+    </fragment>
+
+    <fragment
+        android:id="@+id/favorite"
+        android:name="com.example.nbsmovie.ui.favorite.FavoriteFragment"
+        android:label="fragment_favorite"
+        tools:layout="@layout/fragment_favorite">
+    </fragment>
+
+    <fragment
+        android:id="@+id/grid"
+        android:name="com.example.nbsmovie.ui.grid.GridFragment"
+        android:label="fragment_grid"
+        tools:layout="@layout/fragment_grid">
+    </fragment>
+</navigation>

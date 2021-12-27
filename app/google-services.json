@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882261854922",
+    "project_id": "nbss-e4bdb",
+    "storage_bucket": "nbss-e4bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882261854922:android:9f3d9de9728dcfbcb0c233",
+        "android_client_info": {
+          "package_name": "com.example.nbsmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882261854922-u1aen7vve91u6166j1g78pu6491sam27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYhjAEpdafzqza71oNHSpR6CiTjLQvf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882261854922-u1aen7vve91u6166j1g78pu6491sam27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
