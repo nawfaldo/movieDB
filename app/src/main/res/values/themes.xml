@@ -18,5 +18,6 @@
     <style name="NoActionBar" parent="Theme.Nbsmovie">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">@color/black</item>
     </style>
 </resources>
